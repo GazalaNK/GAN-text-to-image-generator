@@ -2,7 +2,7 @@ Dataset- available using python code(oxford flowers)
    ↓
 Data Loading - this loads the dataset for training
    ↓
-Text Preprocessing -
+Text Preprocessing
    ↓
 Text Embedding Creation
    ↓
