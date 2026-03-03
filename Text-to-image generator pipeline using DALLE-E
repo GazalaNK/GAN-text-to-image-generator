@@ -1,0 +1,21 @@
+User Prompt
+     ↓
+Text Preprocessing
+     ↓
+Tokenizer
+     ↓
+Text Embedding Model (CLIP / Transformer)
+     ↓
+Embedding Vector
+     ↓
+Random Noise Vector
+     ↓
+Conditional Generator
+     ↓
+Image Generation Model
+     ↓
+Generated Image
+     ↓
+Post Processing
+     ↓
+Display in Gradio Interface
