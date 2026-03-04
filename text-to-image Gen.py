@@ -50,3 +50,27 @@ demo = gr.Interface(
 )
 
 demo.launch()
+
+
+User Prompt
+     │
+     ▼
+Text Preprocessing
+(tokenization)
+     │
+     ▼
+CLIP Text Encoder
+(embeddings)
+     │
+     ▼
+Stable Diffusion Model
+(U-Net + Diffusion)
+     │
+     ▼
+VAE Decoder
+     │
+     ▼
+Generated Image
+     │
+     ▼
+Gradio Interface Display
